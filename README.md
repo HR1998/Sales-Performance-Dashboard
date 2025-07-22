@@ -13,8 +13,9 @@ A complete end-to-end analysis of product sales using SQL for querying and Power
 
 ## Key Insights
 - Total Revenue: £143,054  
-- Top 5 Products by Revenue  
+- Top Products by Revenue  
 - Monthly sales trends from Jan–June
+- High-value customers
 
 ## Author
 Hamza Ramzan
